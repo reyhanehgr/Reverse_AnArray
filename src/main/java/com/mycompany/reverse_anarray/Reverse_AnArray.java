@@ -5,7 +5,6 @@
 package com.mycompany.reverse_anarray;
 
 import java.util.Scanner;
-//برنامه ای به زبان برنامه نویسی جاوا بنویسید که یک آرایه یک بعدی را از ورودی بخواند و معکوس آن را چاپ کند.
 ///Write a program in Java programming language that reads a one-dimensional array from the input and prints its reverse
 public class Reverse_AnArray {
 
